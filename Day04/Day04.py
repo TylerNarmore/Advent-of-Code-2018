@@ -86,8 +86,5 @@ def part_2(x):
     print(worst_guard*guards[worst_guard].index(max_minute))
 
 
-
-
-
 if __name__ == "__main__":
     main()
